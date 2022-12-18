@@ -14,8 +14,8 @@
 
 - *It took me around 12 hours to complete the webpage.*
 
-# Live link of projects:
- [project 11]()
+
+# [Live project 11](https://brilliant-cranachan-ff24be.netlify.app/)
 
  ### Preview:
 

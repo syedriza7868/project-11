@@ -1,0 +1,268 @@
+@media screen and (max-width: 360px) {
+    .nav-items {
+     display: none;
+    } 
+    .cp-right img {
+     height: 150px;
+     width: 100%;
+     position: absolute;
+     top: 100px;
+     left: -3%;
+    }
+    .main-discription h1 {
+     font-size: 25px;
+     margin-left: 10%;
+     width: 80%;
+     margin-top: 230px;
+    }
+    .main-discription p {
+     width: 70%;
+     margin-left: 10%;
+    }
+    .package-btn {
+     margin-left: 20%;
+    }
+    .mid-part img {
+     height: 150px;
+     width: 100%;
+     position: absolute;
+     top: 500px;
+    }
+    .mid-discription {
+     margin-top: 840px;
+     margin-left: -70%;
+    }
+    .mid-discription h1 {
+     font-size: 25px;
+     margin-left: 10%;
+     width: 50%;
+     margin-top: 230px;
+    }
+    .mid-discription p {
+     width: 50%;
+     margin-left: 10%;
+    }
+    .read-btn {
+     margin-left: 20%;
+    }
+    .technical-part img {
+     height: 150px;
+     width: 100%;
+     position: absolute;
+     top: 900px;
+     left: -3%;
+    }
+    .support-discription {
+     margin-top: 460px;
+    }
+    .support-discription h1 {
+     font-size: 25px;
+     margin-left: 10%;
+     width: 80%;
+     margin-top: 230px;
+    }
+    .support-discription p {
+     width: 70%;
+     margin-left: 10%;
+    }
+    .support-btn {
+     margin-left: 20%;
+    }
+    .thorhosting h1 {
+     margin-top: -100px;
+     margin-left: 5%;
+    }
+    .thorhosting p {
+     width: 60%;
+     margin-left: -120px;
+     margin-top: 110px;
+    }
+    .unlimited-hosting p {
+     width: 70%;
+    }
+    .cloud-hosting {
+     margin-top: 200px;
+     margin-left: -100PX;
+    }
+    .cloud-hosting P {
+     width: 50%;
+    }
+    .Wordpress-hosting {
+     margin-top: 250px;
+     margin-left: -220PX;
+    }
+    .Wordpress-hosting P {
+     width: 50%;
+    }
+    .fastest-vps p {
+     width: 70%;
+    }
+    .Domain {
+     margin-top: 280px;
+     margin-left: -100PX;
+    }
+    .Domain p {
+    width: 50%;
+    }
+    .websit-builder {
+     margin-top: 300px;
+     margin-left: -220PX;
+    }
+    .websit-builder p {
+     width: 50%;
+    }
+    .pricing {
+     height:300vh;
+     background-color: rgb(8, 158, 245);
+    }
+    .starter-01 {
+     width: 70%;
+    }
+    .popular-02 {
+     margin-top: 500px;
+     width: 70%;
+     margin-left: -25%;
+    }
+    .business-03 {
+     margin-top: 500px;
+     width: 70%;
+     margin-left: -48%;
+    }
+    .feedbacks h1 {
+     width: 70%;
+     font-size: 35px;
+     margin-left: 30px;
+    }
+    .feedbacks p {
+     margin-right: 100px;
+     width: 50%;
+    }
+    .feedback-07-1 {
+     width: 80%;
+     height: 38vh;
+     border: 1px solid  #CAD5E2 ;
+     border-radius: 4%;
+     box-shadow: rgb(97, 94, 94);
+    }
+    [alt="img"] {
+     margin-top: 50px;
+    }
+    .names-ceo-01 h2 {
+     margin-top: 10px;
+     font-size: 20px;
+     margin-left: 20%;
+    }
+    .names-ceo-01 p {
+     display: none;
+    }
+    .feedback-07-2 {
+     margin-top: 250px;
+     width: 80%;
+     height: 38vh;
+     margin-left: -40%;
+     border: 1px solid  #CAD5E2 ;
+     border-radius: 4%;
+     box-shadow: rgb(97, 94, 94);
+    }
+    .names-ceo-02 h2 {
+     margin-top: 10px;
+     font-size: 20px;
+     margin-left: 20%;
+    }
+    .names-ceo-02 p {
+     display: none;
+    }
+    .feedback-07-3 {
+     width: 80%;
+     height: 38vh;
+     border: 1px solid  #CAD5E2 ;
+     border-radius: 4%;
+     box-shadow: rgb(97, 94, 94);
+    }
+    [alt="img"] {
+     margin-top: 50px;
+    }
+    .names-ceo-03 h2 {
+     margin-top: 10px;
+    font-size: 20px;
+     margin-left: 20%;
+    }
+    .names-ceo-03 p {
+     display: none;
+    }
+    .feedback-07-4 {
+     margin-top: 250px;
+     width: 80%;
+     height: 38vh;
+     margin-left: -40%;
+     border: 1px solid  #CAD5E2 ;
+     border-radius: 4%;
+     box-shadow: rgb(97, 94, 94);
+    }
+    .names-ceo-04 h2 {
+     margin-top: 10px;
+     font-size: 20px;
+     margin-left: 20%;
+    }
+    .names-ceo-04 p {
+     display: none;
+    }
+    .registeration h1 {
+     font-size: 30px;
+     left: 15%;
+     width: 80%;
+    }
+    .registeration p {
+     font-size: 12px;
+     width: 80%;
+     left: 15%;
+    }
+    .register-btn {
+     margin-top: 105px;
+     margin-left: -50%;
+    }
+    .logo {
+     margin-top: -100px;
+     margin-left: 6%;
+    }
+    .logo p {
+     width: 80%;
+     margin-top: 20px;
+     margin-left: -15%;
+    }
+    .menu-list {
+     position: relative;
+     bottom: 30rem;
+    }
+    .menu-item {
+     font-size: 25px;
+    }
+    .link-list {
+     position: relative;
+     bottom: 26rem;
+     left: 30%;
+    }
+    .link-item {
+     font-size: 25px;
+    }
+    .Overview-list {
+     position: relative;
+     bottom: 22rem;
+     left: 30%;
+    }
+    .Overview-item {
+     font-size: 25px;
+    }
+    .media-heading h3 {
+     position: relative;
+     bottom: 18rem;
+     left: 30%;
+    }
+    .media-icon {
+     position: relative;
+     bottom: 17rem;
+     left: 25%;
+    }
+
+
+}
